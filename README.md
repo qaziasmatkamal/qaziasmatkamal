@@ -1,5 +1,4 @@
-# As-salamu alaykum wa-rahmatullahi wa-barakatuh. 
-I'm Qazi Asmat Kamal 👋
+# As-salamu alaykum, I'm Qazi Asmat Kamal. 
 
 ### Aspiring Web Developer
 
