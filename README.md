@@ -13,7 +13,7 @@ I'm currently learning and building projects with:
 ### Projects
 
 - 🌿 Nature Gallery
-- 🏥 MediNova - Hospital Website
+- 🏥 MediNova — Hospital Website
 - 🪑 Home Nest — Furniture Website
 - 💻 Developer Portfolio
 
