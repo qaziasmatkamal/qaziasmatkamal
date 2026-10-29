@@ -19,4 +19,4 @@ I'm currently learning and building projects with:
 
 ### Currently Learning
 
-Git and frontend web developmen.
+Git and frontend web development.
